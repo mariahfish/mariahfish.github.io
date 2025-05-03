@@ -1,11 +1,11 @@
 ---
- permalink: /
- title: "Homepage"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a sophomore at Chu Kochen Honors College, Zhejiang University, majoring in Artificial Intelligence.
 
